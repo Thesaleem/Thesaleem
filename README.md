@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there, I'm Saleem </h1>
+<h1> 👋 Hi there, I'm Saleem </h1>
 
 
 - 👀 I’m interested in front end development 
