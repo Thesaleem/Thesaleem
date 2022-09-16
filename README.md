@@ -17,7 +17,7 @@
 
 ## Connect with me:
 <a href="https://www.twitter.com/thesaleem_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter logo" height="auto" width="30"></a> &nbsp;
-<a href="mailto:adekunleismail14@gmail.com" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/1015/premium/1015807.png?token=exp=1643964794~hmac=58ae5e18ef1a7e7f58ae556b2489f3cf" alt="mail icon" height="auto" width="30"></a>
+<a href="mailto:adekunleismail14@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="mail icon" height="auto" width="30"></a>
 <!---
 Thesaleem/Thesaleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
