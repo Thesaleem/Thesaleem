@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning React
+- 🌱 I’m work with modern technologies like ES6, React, Redux and Typescript
 - 💞️ I’m looking to collaborate on new projects
 <!--- - 📫 How to reach me saleemismail14@yahoo.com  --->
 
